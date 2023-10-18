@@ -1,0 +1,10 @@
+{
+    "code": 200,
+    "name": "鬦愔",
+    "url": "https://v.douyin.com/ieBXq5vb/",
+    "desc": "“明知不可为而为之”。#修车小杨@福州沁儿",
+    "video": "http://v9-default.365yg.com/5d454482cb0f3a5b0d25f3e6243e2bf1/64fb7466/video/tos/cn/tos-cn-ve-15c001-alinc2/okthgA8qxdCLaTMWACnARQlM98kgyBeAfsDHb7/?a=0&ch=0&cr=0&dr=0&lr=unwatermarked&net=5&cd=0%7C0%7C0%7C0&cv=1&br=4018&bt=4018&cs=0&ds=4&ft=rkG4k0071jevGHhWH6xRfmcPg4BO5nt74Gdz7tG&mime_type=video_mp4&qs=0&rc=Zjc5NTNnNTxoNmU4OjM7NEBpM246azY6ZjVmbDMzNGkzM0A0YV8zNDU0NjUxYC1fYGEtYSNsZG40cjRvNV9gLS1kLS9zcw%3D%3D&btag=e00028000&dy_q=1694197237&l=202309090220378C011F19E751C18C0498",
+    "cover": "https://p9-pc-sign.douyinpic.com/image-cut-tos-priv/b11d5d09757c51bc53987661140e36a1~tplv-dy-resize-origshort-autoq-75:330.jpeg?x-expires=2009556000&x-signature=aF71dFw505mLgfG1%2BeFVg%2BgVAR0%3D&from=3213915784&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20230909022036B9304717E0021F3920DF",
+    "type": "视频",
+    "date": "2023-09-09 02:20:37"
+}

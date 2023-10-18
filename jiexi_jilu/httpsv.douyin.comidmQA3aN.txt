@@ -1,0 +1,10 @@
+{
+    "code": 200,
+    "name": "鬦愔",
+    "url": "https://v.douyin.com/idmQA3aN/",
+    "desc": "前奏一响，初恋登场#甜妹",
+    "video": "http://v3-default.ixigua.com/5eddeee7fceb3603ae441d574dcf73a6/652ed5af/video/tos/cn/tos-cn-ve-15c001-alinc2/o0l8SBCeI87akeqrUbLbaEUPKY4rfn0zNJDAAB/?a=1768&ch=0&cr=0&dr=0&er=0&lr=unwatermarked&net=5&cd=0%7C0%7C0%7C0&cv=1&br=640&bt=640&cs=0&ds=4&ft=ragb-0071FOvWHhWH6xRfCrRGYBO5dy.HXdz7tG&mime_type=video_mp4&qs=0&rc=OzdkaDxpPDU2OTpmZzRkM0BpMzh5aTU6ZmRkbjMzNGkzM0AvLzA0NWJiNjIxMDI0L2IxYSM2cXBvcjRvY2FgLS1kLWFzcw%3D%3D&btag=e00008000&dy_q=1697564568&l=20231018014248B6C97C80BAE78B0F13A4",
+    "cover": "https://p3-sign.douyinpic.com/tos-cn-i-0813/owmGnbImAD7NIaqUiAlgeCFaEa9qAAf8AAbAzY~540x0.webp?x-expires=1698771600&x-signature=gQRREMy9wBUFmwvZ0zrMz2Jf4Rk%3D&from=3213915784_large&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=aweme_video&l=20231018014247F6516EC41D6045276F8F",
+    "type": "视频",
+    "date": "2023-10-18 01:44:19"
+}

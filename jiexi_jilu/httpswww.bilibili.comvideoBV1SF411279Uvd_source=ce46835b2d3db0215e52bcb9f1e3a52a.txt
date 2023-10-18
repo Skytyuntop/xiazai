@@ -1,0 +1,10 @@
+{
+    "code": 200,
+    "name": "哔哩哔哩",
+    "url": "https://www.bilibili.com/video/BV1SF411279U?vd_source=ce46835b2d3db0215e52bcb9f1e3a52a",
+    "desc": "原视频无美颜 当UP主当场被朋友喊起在KTV跳 恋爱告急|||原相机直出 当UP主当场被朋友喊起在KTV跳 恋爱告急",
+    "video": "https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/98/91/1290979198/1290979198-1-192.mp4?e=ig8euxZM2rNcNbR1hzdVhwdlhWRzhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1697564846&gen=playurlv2&os=bcache&oi=2584261250&trid=0000b38998ea0e544ba2ac3ed90c2dd8761eT&mid=0&platform=html5&upsig=a8a65de48cb30e2d736b7124f3c14f92&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&cdnid=3842&bvc=vod&nettype=0&bw=114436&orderid=0,3&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000",
+    "cover": "https://i2.hdslb.com/bfs/archive/5ee980ae853f4b777b55ebc92f4788d520f9e843.jpg",
+    "type": "视频",
+    "date": "2023-10-18 01:45:15"
+}
